@@ -1,0 +1,7 @@
+streamlit
+selenium
+Beautifulsoup4
+langchain
+langchain-ollama
+lxml
+html5lib
